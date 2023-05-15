@@ -14,8 +14,7 @@
 
 # Experience
 
-[아줌마 개발일지](https://yunamom.tistory.com "초보 개발자 공부기록")
-## [SSAFY(삼성 청년 소프트웨어 아카데미)] 9기 진행 중 (https://github.com/Noopy94/ssafy9 "SSAFY 9기 이두현 기록")   
+## 2023.01 ~ [SSAFY(삼성 청년 소프트웨어 아카데미)](https://github.com/Noopy94/ssafy9 "SSAFY 9기 이두현 기록") 9기 진행중
 
 
 
