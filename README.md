@@ -14,7 +14,7 @@
 
 # Experience
 
-### 2023.01 ~ [SSAFY(삼성 청년 소프트웨어 아카데미)](https://github.com/Noopy94/ssafy9 "SSAFY 9기 이두현 기록") 9기 진행중
+#### 2023. 01 ~ [SSAFY(삼성 청년 소프트웨어 아카데미)](https://github.com/Noopy94/ssafy9 "SSAFY 9기 이두현 기록") 9기 진행중
 
 
 
