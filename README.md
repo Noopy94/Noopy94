@@ -1,7 +1,20 @@
 # LEE DU HYUN 😉
 
-
+# BAEKJOON(온라인 저지 사이트)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlengus94)](https://solved.ac/dlengus94/)
+
+# 자기소개
+
+안녕하세요! 
+제 이름은 이두현이고 백엔드를 공부하고 있습니다.
+기계공학과를 전공하고 직장에서 일하다가 IT분야에 대해 너무 매력을 느껴서 
+기존의 커리어를 바꿔서 새로운 분야에 도전하고 있어요.
+계속 발전하는 모습 보여주는 개발자가 되겠습니다.
+
+# Experience
+
+2023.01 ~  SSAFY(삼성 청년 소프트웨어 아카데미) 9기 진행 중.
+
 # Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
