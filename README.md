@@ -24,14 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
-## Front-end Libraries & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-
-## State Management
-![Jotai](https://img.shields.io/badge/Jotai-10B981.svg?&style=for-the-badge&logo=Jotai&logoColor=white)
-![Vuex](https://img.shields.io/badge/Vuex-4FC08D.svg?&style=for-the-badge&logo=Vuex&logoColor=white)
-
 ## Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -41,6 +33,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=white)
+
+## Front-end Libraries & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+
+## State Management
+![Jotai](https://img.shields.io/badge/Jotai-10B981.svg?&style=for-the-badge&logo=Jotai&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D.svg?&style=for-the-badge&logo=Vuex&logoColor=white)
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlengus94@gmail.com)](mailto:dlengus94@gmail.com)
