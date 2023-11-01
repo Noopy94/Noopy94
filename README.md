@@ -47,11 +47,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
  
 ## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlengus94@gmail.com)](mailto:dlengus94@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlengus94@gmail.com)](mailto:dlengus94@gmail.com)  
 
-## SSAFY 프로젝트 개요
 
-# 🎵 YESRAE 노래 추천 프로젝트 (빅데이터 추천)
+----------------------------------------------------------------------------------------------------------------
+
+
+## SSAFY 프로젝트 개요  
+
+## 🎵 YESRAE 노래 추천 프로젝트 (빅데이터 추천)
 
 ## 프로젝트 소개
 
