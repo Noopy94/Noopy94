@@ -268,13 +268,13 @@
 ![노래 추천 결과](/img/Yesrae_노래추천결과.png)
 
 
-## 🎵 JourneyMate (Springcloud를 활용한 msa 프로젝트)
+## ✈️ JourneyMate (Springcloud를 활용한 msa 프로젝트)
 
 - api-gateway를 활용해 서비스 접근 
 - service별 통신에는 feignclient사용
 - 각 서버가 독립적으로 진행함을 진행
 - 다중 서비스 분산처리를 위해 DB 접근에는 kafka를 사용
-- 서비스 장애 이후 DB 데이터 동기화를 위해서 DB와 연관된 서비스간 통신에도 kafka사용
+- 서비스 장애 이후 DB 데이터 동기화시에도 kafka사용
 - circuitbreaker를 사용해 장애 대비
 - ~11/17까지 진행중
 
